@@ -1,0 +1,6 @@
+framework module Pods_LocationsAppTwo {
+  umbrella header "Pods-LocationsAppTwo-umbrella.h"
+
+  export *
+  module * { export * }
+}
