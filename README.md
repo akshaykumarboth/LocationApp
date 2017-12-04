@@ -6,4 +6,5 @@ To access this project:
 2. Goto this project directory in your terminal.
 3. Write 'pod install' to download the dependency 'Alamofire' in your project.
 4. Open 'LocationsAppTwo.xcworkspace' from Finder/Explorer.
-5. XCode Project will open then Build and run.
+5. Add apt Credentials in 'username' and 'password' inside  "sendDataToServer()" function present in ViewController.swift and AppDelegate.swift
+6. XCode Project will open then Build and run.
